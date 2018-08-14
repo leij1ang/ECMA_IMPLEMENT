@@ -1,6 +1,5 @@
 /**
- Auth: Lei.j1ang
- Created: 2018/8/14-14:10
+ https://www.ecma-international.org/ecma-262/7.0/#sec-array.unshift
  */
 'use strict';
 if (!Array.prototype.unshift) {

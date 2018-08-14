@@ -1,7 +1,5 @@
 /**
- Auth: Lei.j1ang
- comp: pactera.com
- Created: 2018/8/8-22:51
+ https://www.ecma-international.org/ecma-262/7.0/#sec-array.indexOf
  */
 'use strict';
 if (!Array.prototype.indexOf) {

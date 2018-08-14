@@ -1,6 +1,5 @@
 /**
- Auth: Lei.j1ang
- Created: 2018/8/14-14:26
+ https://www.ecma-international.org/ecma-262/7.0/#sec-array.toLocaleString
  */
 'use strict';
 if (!Array.prototype.toLocaleString) {

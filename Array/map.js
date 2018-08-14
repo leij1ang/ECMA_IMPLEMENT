@@ -1,4 +1,5 @@
 /**
+ *  https://www.ecma-international.org/ecma-262/7.0/#sec-array.map
  */
 'use strict';
 if (!Array.prototype.map) {

@@ -1,10 +1,9 @@
 /**
- Auth: Lei.j1ang
- Created: 2018/8/13-10:38
+ https://www.ecma-international.org/ecma-262/7.0/#sec-array.push
  */
 'use strict';
-if (!Array.prototype.pop) {
-	Array.prototype.pop = function () {
+if (!Array.prototype.push) {
+	Array.prototype.push = function () {
 // Let O be ? ToObject(this value).
 		var O = Object(this);
 // Let len be ? ToLength(? Get(O, "length")).

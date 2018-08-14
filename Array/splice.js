@@ -1,5 +1,5 @@
 /**
-
+ https://www.ecma-international.org/ecma-262/7.0/#sec-array.splice
  */
 'use strict';
 if (Array.prototype.splice) {

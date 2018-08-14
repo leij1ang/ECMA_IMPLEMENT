@@ -5,9 +5,7 @@
 'use strict'
 if (!Array.prototype.lastIndexOf) {
 	Array.prototype.lastIndexOf = function (searchElement /*, fromIndex*/) {
-		'use strict';
-
-		if (this === void 0 || this === null) {
+		if (typeof this === 'undefined' || this === null) {
 			throw new TypeError();
 		}
 
