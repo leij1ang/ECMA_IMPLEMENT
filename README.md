@@ -1,3 +1,6 @@
+# 我摊牌了，我懒了
+
+
 ## 利用[mdn](https://developer.mozilla.org/)和[ECMA-262 7.0](https://www.ecma-international.org/ecma-262/7.0)标准实现原生方法
 
 写这个的原因在于熟悉ECMA和夯实自己的基础
