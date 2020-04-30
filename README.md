@@ -1,4 +1,4 @@
-# 我摊牌了，我懒了
+# 我摊牌了，我懒了，短期内不会更新（也许长期也不会
 
 
 ## 利用[mdn](https://developer.mozilla.org/)和[ECMA-262 7.0](https://www.ecma-international.org/ecma-262/7.0)标准实现原生方法
